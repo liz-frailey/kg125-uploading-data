@@ -1,0 +1,46 @@
+{
+  "$id": "1",
+  "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
+  "entityType": "restaurant",
+  "content": {
+    "c_territory": "Texas",
+    "yext.address": {
+      "city": "Austin",
+      "countryCode": "US",
+      "line1": "1311 S. 1st Street",
+      "postalCode": "78704",
+      "region": "TX"
+    },
+    "yext.addressHidden": false,
+    "yext.mainPhone": "+15129169235",
+    "yext.name": "Turtlehead Tacos",
+    "yext.photoGallery": [
+      {
+        "image": {
+          "height": 874,
+          "sourceUrl": "https://a.mktgcdn.com/p-sandbox/iirNIyxQuGSw7OecmBP_zKSyU2l4aVreVPiPu43fkS4/1172x874.png",
+          "thumbnails": [
+            {
+              "height": 461,
+              "url": "https://a.mktgcdn.com/p-sandbox/iirNIyxQuGSw7OecmBP_zKSyU2l4aVreVPiPu43fkS4/619x461.png",
+              "width": 619
+            },
+            {
+              "height": 447,
+              "url": "https://a.mktgcdn.com/p-sandbox/iirNIyxQuGSw7OecmBP_zKSyU2l4aVreVPiPu43fkS4/600x447.png",
+              "width": 600
+            },
+            {
+              "height": 146,
+              "url": "https://a.mktgcdn.com/p-sandbox/iirNIyxQuGSw7OecmBP_zKSyU2l4aVreVPiPu43fkS4/196x146.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iirNIyxQuGSw7OecmBP_zKSyU2l4aVreVPiPu43fkS4/1172x874.png",
+          "width": 1172
+        }
+      }
+    ],
+    "yext.timezone": "America/Chicago"
+  }
+}
